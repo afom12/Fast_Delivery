@@ -1,16 +1,40 @@
-# food_market
+# 🍔 Food_Delivery - Flutter Food Delivery App
 
-A new Flutter project.
+FoodMarket is a fully functional food delivery mobile application built with Flutter and Firebase, providing seamless user experiences from registration to order tracking. It follows clean architecture and uses `GetX` for state management and navigation.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔐 Firebase Authentication
+  - Email & password login
+  - User registration
+  - Logout and session management
 
-A few resources to get you started if this is your first Flutter project:
+- 🍕 Food Listing & Details
+  - Browse categorized foods
+  - View detailed descriptions and prices
+  - High-quality images
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🛒 Cart & Order Management
+  - Add/remove items from the cart
+  - Place orders
+  - Track order status
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔔 Push Notifications (optional)
+  - Get order updates and promo alerts
+
+- 🗂 Clean Architecture
+  - Modular structure
+  - Easy to scale and maintain
+
+- ⚙️ Tech Stack
+  - Flutter (Dart)
+  - Firebase (Auth, Firestore, Storage)
+  - GetX (State management & routing)
+
+## 🛠 Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/foodmarket_flutter.git
+cd foodmarket_flutter
