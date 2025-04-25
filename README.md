@@ -6,7 +6,7 @@ FoodMarket is a fully functional food delivery mobile application built with Flu
 
 - 🔐 Firebase Authentication
   - Email & password login
-  - User registration
+  - User registration with address
   - Logout and session management
 
 - 🍕 Food Listing & Details
