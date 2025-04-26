@@ -4,7 +4,7 @@ FoodMarket is a fully functional food delivery mobile application built with Flu
 
 
 ✉️Email
-info@queueea
+info@queue
 
 ## 🚀 Features
 
