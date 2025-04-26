@@ -2,6 +2,16 @@
 
 FoodMarket is a fully functional food delivery mobile application built with Flutter and Firebase, providing seamless user experiences from registration to order tracking. It follows clean architecture and uses `GetX` for state management and navigation.
 
+
+
+
+
+
+
+
+
+
+
 ## 🚀 Features
 
 - 🔐 Firebase Authentication
