@@ -22,10 +22,6 @@ FoodMarket is a fully functional food delivery mobile application built with Flu
 - 🔔 Push Notifications (optional)
   - Get order updates and promo alerts
 
-- 🗂 Clean Architecture
-  - Modular structure
-  - Easy to scale and mai
-
 - ⚙️ Tech Stack
   - Flutter (Dart)
   - Firebase (Auth, Firestore, Storage)
