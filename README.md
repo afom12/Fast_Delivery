@@ -21,7 +21,7 @@ support@queueease.e
 - 🛒 Cart & Order Management
   - Add/remove items from the cart
   - Place orders
-  - Track order statu
+  - Track order status
 
 - 🔔 Push Notifications (optional)
   - Get order updates and promo alerts
