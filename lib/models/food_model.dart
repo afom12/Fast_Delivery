@@ -1,4 +1,4 @@
-// lib/mod
+// lib/m
 class FoodModel {
   final String id;
   final String name;
