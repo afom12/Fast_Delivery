@@ -1,4 +1,3 @@
-// 
 class FoodModel {
   final String id;
   final String name;
