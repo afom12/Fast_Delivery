@@ -1,4 +1,4 @@
-// lib/models/food_model.dart
+// lib/models/food_model.da
 class FoodModel {
   final String id;
   final String name;
