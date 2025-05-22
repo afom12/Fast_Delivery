@@ -1,4 +1,4 @@
-// lib/models/food_m
+// lib/models/food
 class FoodModel {
   final String id;
   final String name;
